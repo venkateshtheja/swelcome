@@ -6,6 +6,8 @@ class Demo
 		 System.out.println("welcome to devops");
 		 System.out.print("welcome to skillrary");
 		  System.out.print("hello World");
+		  System.out.print("hello World");
+		  
 		 
 		 
 }
